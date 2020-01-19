@@ -1,0 +1,1 @@
+An attempt to collect some useful templates for web page design.
